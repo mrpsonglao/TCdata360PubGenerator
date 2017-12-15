@@ -7,3 +7,10 @@ Generates Datascope_TnC_Publications.csv using input files
 - TC_Publications-category_mapping.csv (FOR UPDATING by T&C data scientist)
 
 **Output file:** Datascope_TnC_Publications.csv
+
+===
+
+**Improvements from R version (Datascope_publications.R):**
+- Updated Category keyword matching based on latest TCdata360 categories
+- Allows multiple country matches based on publication Title
+- Process doesn't require the usage of a separate excel file (TnC_PublicationsSharepoint.xlsm) to extract URLs from Excel cells. The Python code extracts the URLs by itself.
