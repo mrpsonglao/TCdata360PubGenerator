@@ -1,0 +1,276 @@
+Country,CountryCodeISO3,RegionCodeALL,RegionByIncome,RegionCodeByIncome,RegionCodeExcludHighIncomeOECD,Region,SpecialRegionCode,RegionCodeES,RegionCodeByIncomeES,CountryCodeISO2,CountryUN,RegionShort,RegionShortIncome,CountryAlternat,ISO3_IFC,CMU,CountryShort,CountryDB
+(AVG) BRICS,BRICS,BRICS,BRICS,BRICS,BRICS,Other,,,,,,Other,BRICS,,,,(AVG) BRICS,
+(AVG) East Asia & Pacific,R1,R1,East Asia & Pacific,R1,R1,East Asia & Pacific,,,,,,East Asia & Pacific,East Asia & Pacific,,,,(AVG) East Asia & Pacific,(AVG) East Asia & Pacific
+(AVG) Europe & Central Asia,R2,R2,Europe & Central Asia,R2,R2,Europe & Central Asia,,,,,,Europe & Central Asia,Europe & Central Asia,,,,(AVG) Europe & Central Asia,(AVG) Europe & Central Asia
+(AVG) European Union,EU,EU,European Union,EU,EU,European Union,,,,,,European Union,European Union,,,,(AVG) European Union,
+(AVG) High income: nonOECD,I1,I1,High income: nonOECD,I1,I1,Other,,,,,,Other,High income: nonOECD,,,,(AVG) High income: nonOECD,(AVG) High income: nonOECD
+(AVG) High income: OECD,I0,I0,High income: OECD,I0,I0,Other,,,,,,Other,High income: OECD,,,,(AVG) High income: OECD,(AVG) High income: OECD
+(AVG) Latin America & Caribbean,R3,R3,Latin America & Caribbean,R3,R3,Latin America & Caribbean,,,,,,Latin America & Caribbean,Latin America & Caribbean,,,,(AVG) Latin America & Caribbean,(AVG) Latin America & Caribbean
+(AVG) Low income,I4,I4,Low income,I4,I4,Other,,,,,,Other,Low income,,,,(AVG) Low income,(AVG) Low income
+(AVG) Lower middle income,I3,I3,Lower middle income,I3,I3,Other,,,,,,Other,Lower middle income,,,,(AVG) Lower middle income,(AVG) Lower middle income
+(AVG) Middle East & North Africa,R4,R4,Middle East & North Africa,R4,R4,Middle East & North Africa,,,,,,Middle East & North Africa,Middle East & North Africa,,,,(AVG) Middle East & North Africa,(AVG) Middle East & North Africa
+(AVG) North America,R5,R5,North America,R5,R5,North America,,,,,,North America,North America,,,,(AVG) North America,(AVG) North America
+(AVG) South Asia,R6,R6,South Asia,R6,R6,South Asia,,,,,,South Asia,South Asia,,,,(AVG) South Asia,(AVG) South Asia
+(AVG) Sub-Saharan Africa,R7,R7,Sub-Saharan Africa,R7,R7,Sub-Saharan Africa,,,,,,Sub-Saharan Africa,Sub-Saharan Africa,,,,(AVG) Sub-Saharan Africa,(AVG) Sub-Saharan Africa
+(AVG) Upper middle income,I2,I2,Upper middle income,I2,I2,Other,,,,,,Other,Upper middle income,,,,(AVG) Upper middle income,(AVG) Upper middle income
+(AVGd) East Asia & Pacific,R1d,R1d,East Asia & Pacific,R1d,R1d,East Asia & Pacific,,,,,,East Asia & Pacific,East Asia & Pacific,,,,(AVGd) East Asia & Pacific,(AVGd) East Asia & Pacific
+(AVGd) Europe & Central Asia,R2d,R2d,Europe & Central Asia,R2d,R2d,Europe & Central Asia,,,,,,Europe & Central Asia,Europe & Central Asia,,,,(AVGd) Europe & Central Asia,(AVGd) Europe & Central Asia
+(AVGd) Latin America & Caribbean,R3d,R3d,Latin America & Caribbean,R3d,R3d,Latin America & Caribbean,,,,,,Latin America & Caribbean,Latin America & Caribbean,,,,(AVGd) Latin America & Caribbean,(AVGd) Latin America & Caribbean
+(AVGd) Middle East & North Africa,R4d,R4d,Middle East & North Africa,R4d,R4d,Middle East & North Africa,,,,,,Middle East & North Africa,Middle East & North Africa,,,,(AVGd) Middle East & North Africa,(AVGd) Middle East & North Africa
+(AVGd) South Asia,R6d,R6d,South Asia,R6d,R6d,South Asia,,,,,,South Asia,South Asia,,,,(AVGd) South Asia,(AVGd) South Asia
+(AVGd) Sub-Saharan Africa,R7d,R7d,Sub-Saharan Africa,R7d,R7d,Sub-Saharan Africa,,,,,,Sub-Saharan Africa,Sub-Saharan Africa,,,,(AVGd) Sub-Saharan Africa,(AVGd) Sub-Saharan Africa
+(ES) All Countries,RWe,RWe,All Countries,RWe,RWe,World,,,,,,World,All Countries,,,,(ES) All Countries,
+(ES) East Asia & Pacific,R1e,R1e,East Asia & Pacific,R1e,R1e,East Asia & Pacific,,,,,,East Asia & Pacific,East Asia & Pacific,,,,(ES) East Asia & Pacific,
+(ES) Eastern Europe & Central Asia,R2e,R2e,Eastern Europe & Central Asia,R2e,R2e,Eastern Europe & Central Asia,,,,,,Eastern Europe & Central Asia,Eastern Europe & Central Asia,,,,(ES) Eastern Europe & Central Asia,
+(ES) High income: nonOECD,I1e,I1e,High income: nonOECD,I1e,I1e,Other,,,,,,Other,High income: nonOECD,,,,(ES) High income: nonOECD,
+(ES) High income: OECD,I0e,I0e,High income: OECD,I0e,I0e,Other,,,,,,Other,High income: OECD,,,,(ES) High income: OECD,
+(ES) Latin America & Caribbean,R3e,R3e,Latin America & Caribbean,R3e,R3e,Latin America & Caribbean,,,,,,Latin America & Caribbean,Latin America & Caribbean,,,,(ES) Latin America & Caribbean,
+(ES) Middle East & North Africa,R4e,R4e,Middle East & North Africa,R4e,R4e,Middle East & North Africa,,,,,,Middle East & North Africa,Middle East & North Africa,,,,(ES) Middle East & North Africa,
+(ES) South Asia,R6e,R6e,South Asia,R6e,R6e,South Asia,,,,,,South Asia,South Asia,,,,(ES) South Asia,
+(ES) Sub-Saharan Africa,R7e,R7e,Sub-Saharan Africa,R7e,R7e,Sub-Saharan Africa,,,,,,Sub-Saharan Africa,Sub-Saharan Africa,,,,(ES) Sub-Saharan Africa,
+(WDI) Arab World,ARB,ARB,Arab World,ARB,ARB,Arab World,,,,,,Arab World,Arab World,,,,(WDI) Arab World,
+(WDI) Caribbean small states,CSS,CSS,Caribbean small states,CSS,CSS,Other,,,,,,Other,Caribbean small states,,,,(WDI) Caribbean small states,
+(WDI) East Asia & Pacific (all income levels),EAS,EAS,East Asia & Pacific (all income levels),EAS,EAS,East Asia & Pacific,,,,,,East Asia & Pacific,East Asia & Pacific (all income levels),,,,(WDI) East Asia & Pacific (all income levels),
+(WDI) East Asia & Pacific (developing only),EAP,EAP,East Asia & Pacific (developing only),EAP,EAP,East Asia & Pacific,,,,,,East Asia & Pacific,East Asia & Pacific (developing only),,,,(WDI) East Asia & Pacific (developing only),
+(WDI) Euro area,EMU,EMU,Euro area,EMU,EMU,Euro area,,,,,,Euro area,Euro area,,,,(WDI) Euro area,
+(WDI) Europe & Central Asia (all income levels),ECS,ECS,Europe & Central Asia (all income levels),ECS,ECS,Europe & Central Asia,,,,,,Europe & Central Asia,Europe & Central Asia (all income levels),,,,(WDI) Europe & Central Asia (all income levels),
+(WDI) Europe & Central Asia (developing only),ECA,ECA,Europe & Central Asia (developing only),ECA,ECA,Europe & Central Asia,,,,,,Europe & Central Asia,Europe & Central Asia (developing only),,,,(WDI) Europe & Central Asia (developing only),
+(WDI) European Union,EUU,EUU,European Union,EUU,EUU,European Union,,,,,,European Union,European Union,,,,(WDI) European Union,
+(WDI) Heavily indebted poor countries (HIPC),HPC,HPC,Heavily indebted poor countries (HIPC),HPC,HPC,Other,,,,,,Other,Heavily indebted poor countries (HIPC),,,,(WDI) Heavily indebted poor countries (HIPC),
+(WDI) High income,HIC,HIC,High income,HIC,HIC,Other,,,,,,Other,High income,,,,(WDI) High income,
+(WDI) High income: nonOECD,NOC,NOC,High income: nonOECD,NOC,NOC,Other,,,,,,Other,High income: nonOECD,,,,(WDI) High income: nonOECD,
+(WDI) High income: OECD,OEC,OEC,High income: OECD,OEC,OEC,Other,,,,,,Other,High income: OECD,,,,(WDI) High income: OECD,
+(WDI) Latin America & Caribbean (all income levels),LCN,LCN,Latin America & Caribbean (all income levels),LCN,LCN,Latin America & Caribbean,,,,,,Latin America & Caribbean,Latin America & Caribbean (all income levels),,,,(WDI) Latin America & Caribbean (all income levels),
+(WDI) Latin America & Caribbean (developing only),LAC,LAC,Latin America & Caribbean (developing only),LAC,LAC,Latin America & Caribbean,,,,,,Latin America & Caribbean,Latin America & Caribbean (developing only),,,,(WDI) Latin America & Caribbean (developing only),
+(WDI) Least developed countries: UN classification,LDC,LDC,Least developed countries: UN classification,LDC,LDC,Other,,,,,,Other,Least developed countries: UN classification,,,,(WDI) Least developed countries: UN classification,
+(WDI) Low & middle income,LMY,LMY,Low & middle income,LMY,LMY,Other,,,,,,Other,Low & middle income,,,,(WDI) Low & middle income,
+(WDI) Low income,LIC,LIC,Low income,LIC,LIC,Other,,,,,,Other,Low income,,,,(WDI) Low income,
+(WDI) Lower middle income,LMC,LMC,Lower middle income,LMC,LMC,Other,,,,,,Other,Lower middle income,,,,(WDI) Lower middle income,
+(WDI) Middle East & North Africa (all income levels),MEA,MEA,Middle East & North Africa (all income levels),MEA,MEA,Middle East & North Africa,,,,,,Middle East & North Africa,Middle East & North Africa (all income levels),,,,(WDI) Middle East & North Africa (all income levels),
+(WDI) Middle East & North Africa (developing only),MNA,MNA,Middle East & North Africa (developing only),MNA,MNA,Middle East & North Africa,,,,,,Middle East & North Africa,Middle East & North Africa (developing only),,,,(WDI) Middle East & North Africa (developing only),
+(WDI) Middle income,MIC,MIC,Middle income,MIC,MIC,Other,,,,,,Other,Middle income,,,,(WDI) Middle income,
+(WDI) North America,NAC,NAC,North America,NAC,NAC,North America,,,,,,North America,North America,,,,(WDI) North America,
+(WDI) OECD members,OED,OED,OECD members,OED,OED,Other,,,,,,Other,OECD members,,,,(WDI) OECD members,
+(WDI) Other small states,OSS,OSS,Other small states,OSS,OSS,Other,,,,,,Other,Other small states,,,,(WDI) Other small states,
+(WDI) Pacific island small states,PSS,PSS,Pacific island small states,PSS,PSS,Other,,,,,,Other,Pacific island small states,,,,(WDI) Pacific island small states,
+(WDI) Small states,SST,SST,Small states,SST,SST,Other,,,,,,Other,Small states,,,,(WDI) Small states,
+(WDI) South Asia,SAS,SAS,South Asia,SAS,SAS,South Asia,,,,,,South Asia,South Asia,,,,(WDI) South Asia,
+(WDI) Sub-Saharan Africa (all income levels),SSF,SSF,Sub-Saharan Africa (all income levels),SSF,SSF,Sub-Saharan Africa,,,,,,Sub-Saharan Africa,Sub-Saharan Africa (all income levels),,,,(WDI) Sub-Saharan Africa (all income levels),
+(WDI) Sub-Saharan Africa (developing only),SSA,SSA,Sub-Saharan Africa (developing only),SSA,SSA,Sub-Saharan Africa,,,,,,Sub-Saharan Africa,Sub-Saharan Africa (developing only),,,,(WDI) Sub-Saharan Africa (developing only),
+(WDI) Upper middle income,UMC,UMC,Upper middle income,UMC,UMC,Other,,,,,,Other,Upper middle income,,,,(WDI) Upper middle income,
+(WDI) World,WLD,WLD,World,WLD,WLD,World,,,,,,World,World,,,,(WDI) World,
+Afghanistan,AFG,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,AF,Afghanistan,South Asia,South Asia,Afghanistan,AFG,SACKB,Afghanistan,Afghanistan
+Albania,ALB,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,AL,Albania,Europe & Cen. Asia,Europe & Cen. Asia,Albania,ALB,ECCU4,Albania,Albania
+Algeria,DZA,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,DZ,Algeria,MENA,MENA,Algeria,ALG,MNC01,Algeria,Algeria
+American Samoa,ASM,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,AS,American Samoa,East Asia & Pacific,East Asia & Pacific,American Samoa,ASM,,Samoa,American Samoa
+Andorra,AND,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,AD,Andorra,Europe & Cen. Asia,High income: nonOECD,Andorra,AND,,Andorra,Andorra
+Angola,AGO,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,AO,Angola,Sub-Saharan Africa,Sub-Saharan Africa,Angola,AGO,AFCC1,Angola,Angola
+Antigua and Barbuda,ATG,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,AG,Antigua and Barbuda,Lat. America & Carib.,High income: nonOECD,Antigua and Barbuda,ANT,,Barbuda,Antigua and Barbuda
+Argentina,ARG,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,AR,Argentina,Lat. America & Carib.,High income: nonOECD,Argentina,ARG,LCC7C,Argentina,Argentina
+Armenia,ARM,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,AM,Armenia,Europe & Cen. Asia,Europe & Cen. Asia,Armenia,ARM,ECCU3,Armenia,Armenia
+Aruba,ABW,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,AW,Aruba,Lat. America & Carib.,High income: nonOECD,Aruba,ABW,,Aruba,Aruba
+Australia,AUS,R1,High income: OECD,I0,I0,East Asia and Pacific,,R1e,I0e,AU,Australia,East Asia & Pacific,High income: OECD,Australia,AUS,,Australia,Australia
+Austria,AUT,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,AT,Austria,Europe & Cen. Asia,High income: OECD,Austria,AUT,,Austria,Austria
+Azerbaijan,AZE,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,AZ,Azerbaijan,Europe & Cen. Asia,Europe & Cen. Asia,Azerbaijan,AZE,ECCU3,Azerbaijan,Azerbaijan
+"Bahamas, The",BHS,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,BS,Bahamas,Lat. America & Carib.,High income: nonOECD,Bahamas,BHS,,Bahamas,"Bahamas, The"
+Bahrain,BHR,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,BH,Bahrain,MENA,High income: nonOECD,Bahrain,BHR,,Bahrain,Bahrain
+Bangladesh,BGD,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,BD,Bangladesh,South Asia,South Asia,Bangladesh,BAN,SACBD,Bangladesh,Bangladesh
+Barbados,BRB,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,BB,Barbados,Lat. America & Carib.,High income: nonOECD,Barbados,BRB,,Barbados,Barbados
+Belarus,BLR,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,BY,Belarus,Europe & Cen. Asia,Europe & Cen. Asia,Belarus,BLR,ECCU2,Belarus,Belarus
+Belgium,BEL,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,BE,Belgium,Europe & Cen. Asia,High income: OECD,Belgium,BEL,,Belgium,Belgium
+Belize,BLZ,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,BZ,Belize,Lat. America & Carib.,Lat. America & Carib.,Belize,BLZ,,Belize,Belize
+Benin,BEN,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,BJ,Benin,Sub-Saharan Africa,Sub-Saharan Africa,Benin,BEN,AFCF2,Benin,Benin
+Bermuda,BMU,R5,High income: nonOECD,I1,R5d,North America,,R5e,I1e,BM,Bermuda,North America,High income: nonOECD,Bermuda,BMU,,Bermuda,Bermuda
+Bhutan,BTN,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,BT,Bhutan,South Asia,South Asia,Bhutan,BHU,SACAA,Bhutan,Bhutan
+Bolivia,BOL,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,BO,Bolivia (Plurinational State of),Lat. America & Carib.,Lat. America & Carib.,Bolivia,BOL,LCC6C,Bolivia,Bolivia
+Bosnia and Herzegovina,BIH,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,BA,Bosnia and Herzegovina,Europe & Cen. Asia,Europe & Cen. Asia,Bosnia and Herzegovina,BIH,ECCU4,Bosnia,Bosnia and Herzegovina
+Botswana,BWA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,BW,Botswana,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,BOT,AFCS1,Botswana,Botswana
+Brazil,BRA,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,BR,Brazil,Lat. America & Carib.,Lat. America & Carib.,Brazil,BRA,LCC5C,Brazil,Brazil
+Brunei Darussalam,BRN,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,BN,Brunei Darussalam,East Asia & Pacific,High income: nonOECD,Brunei Darussalam,BRN,,Brunei,Brunei Darussalam
+Bulgaria,BGR,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,EU,R2e,R2e,BG,Bulgaria,Europe & Cen. Asia,Europe & Cen. Asia,Bulgaria,BUL,ECCU5,Bulgaria,Bulgaria
+Burkina Faso,BFA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,BF,Burkina Faso,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,BUR,AFCF2,Burkina,Burkina Faso
+Burundi,BDI,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,BI,Burundi,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,BUI,AFCE1,Burundi,Burundi
+Cabo Verde,CPV,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CV,Cabo Verde,Sub-Saharan Africa,Sub-Saharan Africa,Cabo Verde,CAP,AFCF1,Cabo Verde,Cabo Verde
+Cambodia,KHM,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,KH,Cambodia,East Asia & Pacific,East Asia & Pacific,Cambodia,KAM,EACTF,Cambodia,Cambodia
+Cameroon,CMR,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CM,Cameroon,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,CAM,AFCC1,Cameroon,Cameroon
+Canada,CAN,R5,High income: OECD,I0,R5d,North America,,R5e,I0e,CA,Canada,North America,High income: OECD,Canada,CAN,,Canada,Canada
+Cayman Islands,CYM,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,KY,Cayman Islands,Lat. America & Carib.,High income: nonOECD,Cayman Islands,CYM,,Cayman,Cayman Islands
+Central African Republic,CAF,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CF,Central African Republic,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,CAR,AFCW3,Central African Republic,Central African Republic
+Chad,TCD,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,TD,Chad,Sub-Saharan Africa,Sub-Saharan Africa,Chad,CHD,AFCW3,Chad,Chad
+Channel Islands,,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,,Channel Islands,Europe & Cen. Asia,High income: nonOECD,Channel Islands,,,Channel Islands,Channel Islands
+Chile,CHL,R3,High income: OECD,I0,I0,Latin America and Caribbean,,R3e,I0e,CL,Chile,Lat. America & Carib.,High income: OECD,Chile,CHL,LCC6C,Chile,Chile
+China,CHN,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,CN,China,East Asia & Pacific,East Asia & Pacific,China,CHA,EACCF,China,China
+Colombia,COL,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,CO,Colombia,Lat. America & Carib.,Lat. America & Carib.,Colombia,CLM,LCC1C,Colombia,Colombia
+Comoros,COM,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,KM,Comoros,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,COM,AFCS2,Comoros,Comoros
+"Congo, Dem. Rep.",COD,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CD,Dem. Rep. of the Congo,Sub-Saharan Africa,Sub-Saharan Africa,"Congo, Democratic Republic of",ZAI,AFCC2,"Congo, Dem.","Congo, Dem Rep"
+"Congo, Rep.",COG,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CG,Congo,Sub-Saharan Africa,Sub-Saharan Africa,"Congo, Republic of",COG,AFCC2,"Congo, Rep.","Congo, Rep"
+Costa Rica,CRI,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,CR,Costa Rica,Lat. America & Carib.,Lat. America & Carib.,Costa Rica,COS,LCC2C,Costa Rica,Costa Rica
+Cote d'Ivoire,CIV,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,CI,Côte d'Ivoire,Sub-Saharan Africa,Sub-Saharan Africa,Cote d'Ivoire,IVC,AFCF2,Ivoire,Cote dIvoire
+Croatia,HRV,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,EU,R2e,I1e,HR,Croatia,Europe & Cen. Asia,High income: nonOECD,Croatia,HRV,ECCU5,Croatia,Croatia
+Cuba,CUB,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,CU,Cuba,Lat. America & Carib.,Lat. America & Carib.,Cuba,CUB,,Cuba,Cuba
+Curacao,CUW,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,CW,Curaçao,Lat. America & Carib.,High income: nonOECD,Curaçao,CUW,,Curacao,Curacao
+Cyprus,CYP,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,EU,R2e,I1e,CY,Cyprus,Europe & Cen. Asia,High income: nonOECD,Cyprus,CYP,,Cyprus,Cyprus
+Czech Republic,CZE,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,CZ,Czech Republic,Europe & Cen. Asia,High income: OECD,Czech Republic,CZE,ECCU5,Czech,Czech Republic
+Denmark,DNK,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,DK,Denmark,Europe & Cen. Asia,High income: OECD,Denmark,DNK,,Denmark,Denmark
+Djibouti,DJI,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,DJ,Djibouti,MENA,MENA,Djibouti,DJI,,Djibouti,Djibouti
+Dominica,DMA,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,DM,Dominica,Lat. America & Carib.,Lat. America & Carib.,Dominica,DMA,,Dominica,Dominica
+Dominican Republic,DOM,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,DO,Dominican Republic,Lat. America & Carib.,Lat. America & Carib.,Dominican Republic,DOM,LCC3C,Dominican,Dominican Republic
+Ecuador,ECU,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,EC,Ecuador,Lat. America & Carib.,Lat. America & Carib.,Ecuador,ECU,LCC6C,Ecuador,Ecuador
+"Egypt, Arab Rep.",EGY,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,EG,Egypt,MENA,MENA,"Egypt, Arab Republic of",EGT,MNADE,Egypt,"Egypt, Arab Rep"
+El Salvador,SLV,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,SV,El Salvador,Lat. America & Carib.,Lat. America & Carib.,El Salvador,ESL,,El Salvador,El Salvador
+Equatorial Guinea,GNQ,R7,High income: nonOECD,I1,R7d,Sub-Saharan Africa,,R7e,I1e,GQ,Equatorial Guinea,Sub-Saharan Africa,High income: nonOECD,Equatorial Guinea,GNQ,AFCC1,Equatorial Guinea,Equatorial Guinea
+Eritrea,ERI,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ER,Eritrea,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,ERI,AFCE2,Eritrea,Eritrea
+Estonia,EST,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,EE,Estonia,Europe & Cen. Asia,High income: OECD,Estonia,EST,ECCU5,Estonia,Estonia
+Ethiopia,ETH,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ET,Ethiopia,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,ETH,AFCE3,Ethiopia,Ethiopia
+Faeroe Islands,FRO,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,FO,Faeroe Islands,Europe & Cen. Asia,High income: nonOECD,Faeroe Islands,FRO,,Faeroe,Faeroe Islands
+Fiji,FJI,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,FJ,Fiji,East Asia & Pacific,East Asia & Pacific,Fiji,FIJ,,Fiji,Fiji
+Finland,FIN,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,FI,Finland,Europe & Cen. Asia,High income: OECD,Finland,FIN,,Finland,Finland
+France,FRA,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,FR,France,Europe & Cen. Asia,High income: OECD,France,FRA,,France,France
+French Polynesia,PYF,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,PF,French Polynesia,East Asia & Pacific,High income: nonOECD,French Polynesia,PYF,,French Polynesia,French Polynesia
+Gabon,GAB,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,GA,Gabon,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,GAB,AFCC1,Gabon,Gabon
+"Gambia, The",GMB,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,GM,Gambia,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,GAM,AFCF1,Gambia,"Gambia, The"
+Georgia,GEO,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,GE,Georgia,Europe & Cen. Asia,Europe & Cen. Asia,Georgia,GEO,ECCU3,Georgia,Georgia
+Germany,DEU,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,DE,Germany,Europe & Cen. Asia,High income: OECD,Germany,DEU,,Germany,Germany
+Ghana,GHA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,GH,Ghana,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,GHA,AFCW1,Ghana,Ghana
+Greece,GRC,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,GR,Greece,Europe & Cen. Asia,High income: OECD,Greece,GRC,,Greece,Greece
+Greenland,GRL,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,GL,Greenland,Europe & Cen. Asia,High income: nonOECD,Greenland,GRL,,Greenland,Greenland
+Grenada,GRD,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,GD,Grenada,Lat. America & Carib.,Lat. America & Carib.,Grenada,GRD,,Grenada,Grenada
+Guam,GUM,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,GU,Guam,East Asia & Pacific,High income: nonOECD,Guam,GUM,,Guam,Guam
+Guatemala,GTM,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,GT,Guatemala,Lat. America & Carib.,Lat. America & Carib.,Guatemala,GUA,LCC2C,Guatemala,Guatemala
+Guinea,GIN,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,GN,Guinea,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,GUI,AFCF2,Guinea,Guinea
+Guinea-Bissau,GNB,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,GW,Guinea-Bissau,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,GUB,AFCF1,Bissau,Guinea-Bissau
+Guyana,GUY,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,GY,Guyana,Lat. America & Carib.,Lat. America & Carib.,Guyana,GUY,,Guyana,Guyana
+Haiti,HTI,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,HT,Haiti,Lat. America & Carib.,Lat. America & Carib.,Haiti,HAI,LCC8C,Haiti,Haiti
+Honduras,HND,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,HN,Honduras,Lat. America & Carib.,Lat. America & Carib.,Honduras,HDS,,Honduras,Honduras
+"Hong Kong SAR, China",HKG,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,HK,"China, Hong Kong SAR",East Asia & Pacific,High income: nonOECD,Hong Kong,HKG,,Hong Kong,"Hong Kong SAR, China"
+Hungary,HUN,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,HU,Hungary,Europe & Cen. Asia,High income: OECD,Hungary,HUN,ECCU5,Hungary,Hungary
+Iceland,ISL,R2,High income: OECD,I0,I0,Europe and Central Asia,,R2e,I0e,IS,Iceland,Europe & Cen. Asia,High income: OECD,Iceland,ISL,,Iceland,Iceland
+India,IND,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,IN,India,South Asia,South Asia,India,IND,SACIN,India,India
+Indonesia,IDN,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,ID,Indonesia,East Asia & Pacific,East Asia & Pacific,Indonesia,INS,EACIF,Indonesia,Indonesia
+"Iran, Islamic Rep.",IRN,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,IR,Iran (Islamic Republic of),MENA,MENA,Iran,IRN,MNC02,Iran,"Iran, Islamic Rep"
+Iraq,IRQ,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,IQ,Iraq,MENA,MENA,Iraq,IRQ,MNC02,Iraq,Iraq
+Ireland,IRL,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,IE,Ireland,Europe & Cen. Asia,High income: OECD,Ireland,IRL,,Ireland,Ireland
+Isle of Man,IMN,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,IM,Isle of Man,Europe & Cen. Asia,High income: nonOECD,Isle of Man,IMN,,Isle of Man,Isle of Man
+Israel,ISR,R4,High income: OECD,I0,I0,Middle East and North Africa,,R4e,I0e,IL,Israel,MENA,High income: OECD,Israel,ISR,,Israel,Israel
+Italy,ITA,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,IT,Italy,Europe & Cen. Asia,High income: OECD,Italy,ITA,,Italy,Italy
+Jamaica,JAM,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,JM,Jamaica,Lat. America & Carib.,Lat. America & Carib.,Jamaica,JAM,LCC3C,Jamaica,Jamaica
+Japan,JPN,R1,High income: OECD,I0,I0,East Asia and Pacific,,R1e,I0e,JP,Japan,East Asia & Pacific,High income: OECD,Japan,JPN,,Japan,Japan
+Jordan,JOR,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,JO,Jordan,MENA,MENA,Jordan,JOR,MNARS,Jordan,Jordan
+Kazakhstan,KAZ,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,KZ,Kazakhstan,Europe & Cen. Asia,Europe & Cen. Asia,Kazakhstan,KAZ,ECCU8,Kazakhstan,Kazakhstan
+Kenya,KEN,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,KE,Kenya,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,KEN,AFCE2,Kenya,Kenya
+Kiribati,KIR,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,KI,Kiribati,East Asia & Pacific,East Asia & Pacific,Kiribati,KIR,,Kiribati,Kiribati
+"Korea, Dem. Rep.",PRK,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,KP,"Korea, Dem. People's Rep. of",East Asia & Pacific,East Asia & Pacific,"Korea, Dem. People's Rep. of",PRK,,North Korea,"Korea, Dem. Rep"
+"Korea, Rep.",KOR,R1,High income: OECD,I0,I0,East Asia and Pacific,,R1e,I0e,KR,"Korea, Republic of",East Asia & Pacific,High income: OECD,"Korea, Republic of",KOR,EACKO,Korea,"Korea, Rep"
+Kosovo,KSV,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,XK,Kosovo,Europe & Cen. Asia,Europe & Cen. Asia,Kosovo,XKS,ECCU4,Kosovo,Kosovo
+Kuwait,KWT,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,KW,Kuwait,MENA,High income: nonOECD,Kuwait,KWT,MNC05,Kuwait,Kuwait
+Kyrgyz Republic,KGZ,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,KG,Kyrgyzstan,Europe & Cen. Asia,Europe & Cen. Asia,Kyrgyzstan,KGZ,ECCU8,Kyrgyz,Kyrgyz Republic
+Lao PDR,LAO,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,LA,Lao People's Dem. Rep.,East Asia & Pacific,East Asia & Pacific,Lao People's Democratic Republic,LAO,EACTF,Lao,Lao PDR
+Latvia,LVA,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,EU,R2e,I1e,LV,Latvia,Europe & Cen. Asia,High income: nonOECD,Latvia,LVA,ECCU5,Latvia,Latvia
+Lebanon,LBN,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,LB,Lebanon,MENA,MENA,Lebanon,LEB,MNC02,Lebanon,Lebanon
+Lesotho,LSO,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,LS,Lesotho,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,LES,AFCS1,Lesotho,Lesotho
+Liberia,LBR,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,LR,Liberia,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,LIB,AFCW1,Liberia,Liberia
+Libya,LBY,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,LY,Libya,MENA,MENA,Libya,LBY,MNC01,Libya,Libya
+Liechtenstein,LIE,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,LI,Liechtenstein,Europe & Cen. Asia,High income: nonOECD,Liechtenstein,LIE,,Liechtenstein,Liechtenstein
+Lithuania,LTU,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,EU,R2e,I1e,LT,Lithuania,Europe & Cen. Asia,High income: nonOECD,Lithuania,LTU,ECCU5,Lithuania,Lithuania
+Luxembourg,LUX,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,LU,Luxembourg,Europe & Cen. Asia,High income: OECD,Luxembourg,LUX,,Luxembourg,Luxembourg
+"Macao SAR, China",MAC,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,MO,"China, Macao SAR",East Asia & Pacific,High income: nonOECD,"China, Macao SAR",MAC,,Macao,"Macao SAR, China"
+"Macedonia, FYR",MKD,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,MK,TFYR of Macedonia,Europe & Cen. Asia,Europe & Cen. Asia,"Macedonia, former Yugoslav Republic of",MKD,ECCU4,Macedonia,"Macedonia, FYR"
+Madagascar,MDG,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,MG,Madagascar,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,MAG,AFCS2,Madagascar,Madagascar
+Malawi,MWI,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,MW,Malawi,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,MAL,AFCE1,Malawi,Malawi
+Malaysia,MYS,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,MY,Malaysia,East Asia & Pacific,East Asia & Pacific,Malaysia,MYS,EACTF,Malaysia,Malaysia
+Maldives,MDV,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,MV,Maldives,South Asia,South Asia,Maldives,MDV,SACMV,Maldives,Maldives
+Mali,MLI,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ML,Mali,Sub-Saharan Africa,Sub-Saharan Africa,Mali,MLI,AFCW3,Mali,Mali
+Malta,MLT,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,EU,R4e,I1e,MT,Malta,MENA,High income: nonOECD,Malta,MLT,,Malta,Malta
+Marshall Islands,MHL,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,MH,Marshall Islands,East Asia & Pacific,East Asia & Pacific,Marshall Islands,MHL,,Marshall,Marshall Islands
+Mauritania,MRT,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,MR,Mauritania,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,MTA,AFCF1,Mauritania,Mauritania
+Mauritius,MUS,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,MU,Mauritius,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,MTS,AFCS2,Mauritius,Mauritius
+Mexico,MEX,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,MX,Mexico,Lat. America & Carib.,Lat. America & Carib.,Mexico,MXC,LCC1C,Mexico,Mexico
+"Micronesia, Fed. Sts.",FSM,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,FM,Micronesia (Federated States of),East Asia & Pacific,East Asia & Pacific,"Micronesia, Federated States of",FSM,,Micronesia,"Micronesia, Fed Sts"
+Moldova,MDA,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,MD,Republic of Moldova,Europe & Cen. Asia,Europe & Cen. Asia,Moldova,MDA,ECCU2,Moldova,Moldova
+Monaco,MCO,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,MC,Monaco,Europe & Cen. Asia,High income: nonOECD,Monaco,MCO,,Monaco,Monaco
+Mongolia,MNG,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,MN,Mongolia,East Asia & Pacific,East Asia & Pacific,Mongolia,MNG,EACCF,Mongolia,Mongolia
+Montenegro,MNE,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,ME,Montenegro,Europe & Cen. Asia,Europe & Cen. Asia,Montenegro,MNE,ECCU4,Montenegro,Montenegro
+Morocco,MAR,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,MA,Morocco,MENA,MENA,Morocco,MYC,GCPDR,Morocco,Morocco
+Mozambique,MOZ,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,MZ,Mozambique,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,MOZ,AFCS2,Mozambique,Mozambique
+Myanmar,MMR,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,MM,Myanmar,East Asia & Pacific,East Asia & Pacific,Myanmar,BUA,EACTF,Myanmar,Myanmar
+Namibia,NAM,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,NA,Namibia,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,NAM,AFCS1,Namibia,Namibia
+Nepal,NPL,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,NP,Nepal,South Asia,South Asia,Nepal,NEP,SACNP,Nepal,Nepal
+Netherlands,NLD,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,NL,Netherlands,Europe & Cen. Asia,High income: OECD,Netherlands,NET,,Netherlands,Netherlands
+New Caledonia,NCL,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,NC,New Caledonia,East Asia & Pacific,High income: nonOECD,New Caledonia,NCL,,Caledonia,New Caledonia
+New Zealand,NZL,R1,High income: OECD,I0,I0,East Asia and Pacific,,R1e,I0e,NZ,New Zealand,East Asia & Pacific,High income: OECD,New Zealand,NZL,,Zealand,New Zealand
+Nicaragua,NIC,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,NI,Nicaragua,Lat. America & Carib.,Lat. America & Carib.,Nicaragua,NIC,LCC2C,Nicaragua,Nicaragua
+Niger,NER,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,NE,Niger,Sub-Saharan Africa,Sub-Saharan Africa,Niger,NIG,AFCW3,Niger,Niger
+Nigeria,NGA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,NG,Nigeria,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,NIR,AFCW2,Nigeria,Nigeria
+Northern Mariana Islands,MNP,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,MP,Northern Mariana Islands,East Asia & Pacific,High income: nonOECD,Northern Mariana Islands,MNP,,Mariana,Northern Mariana Islands
+Norway,NOR,R2,High income: OECD,I0,I0,Europe and Central Asia,,R2e,I0e,NO,Norway,Europe & Cen. Asia,High income: OECD,Norway,NOR,,Norway,Norway
+Oman,OMN,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,OM,Oman,MENA,High income: nonOECD,Oman,OMN,MNC05,Oman,Oman
+Pakistan,PAK,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,PK,Pakistan,South Asia,South Asia,Pakistan,PAK,SACPK,Pakistan,Pakistan
+Palau,PLW,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,PW,Palau,East Asia & Pacific,East Asia & Pacific,Palau,PLW,,Palau,Palau
+Panama,PAN,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,PA,Panama,Lat. America & Carib.,Lat. America & Carib.,Panama,PAN,LCC2C,Panama,Panama
+Papua New Guinea,PNG,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,PG,Papua New Guinea,East Asia & Pacific,East Asia & Pacific,Papua New Guinea,PAP,,Papua,Papua New Guinea
+Paraguay,PRY,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,PY,Paraguay,Lat. America & Carib.,Lat. America & Carib.,Paraguay,PAR,LCC7C,Paraguay,Paraguay
+Peru,PER,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,PE,Peru,Lat. America & Carib.,Lat. America & Carib.,Peru,PER,LCC6C,Peru,Peru
+Philippines,PHL,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,PH,Philippines,East Asia & Pacific,East Asia & Pacific,Philippines,PHL,EACPF,Philippines,Philippines
+Poland,POL,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,PL,Poland,Europe & Cen. Asia,High income: OECD,Poland,POL,ECCU5,Poland,Poland
+Portugal,PRT,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,PT,Portugal,Europe & Cen. Asia,High income: OECD,Portugal,PRT,,Portugal,Portugal
+Puerto Rico,PRI,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,PR,Puerto Rico,Lat. America & Carib.,High income: nonOECD,Puerto Rico,PRI,,Puerto Rico,Puerto Rico US
+Qatar,QAT,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,QA,Qatar,MENA,High income: nonOECD,Qatar,QTR,MNC05,Qatar,Qatar
+Romania,ROU,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,EU,R2e,R2e,RO,Romania,Europe & Cen. Asia,Europe & Cen. Asia,Romania,ROM,ECCU5,Romania,Romania
+Russian Federation,RUS,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,RU,Russian Federation,Europe & Cen. Asia,High income: nonOECD,Russian Federation,RUS,ECCU1,Russia,Russian Federation
+Rwanda,RWA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,RW,Rwanda,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,RWA,AFCE2,Rwanda,Rwanda
+Samoa,WSM,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,WS,Samoa,East Asia & Pacific,East Asia & Pacific,Samoa,WSM,,Samoa,Samoa
+San Marino,SMR,R2,High income: nonOECD,I1,R2d,Europe and Central Asia,,R2e,I1e,SM,San Marino,Europe & Cen. Asia,High income: nonOECD,San Marino,SMR,,San Marino,San Marino
+Sao Tome and Principe,STP,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ST,Sao Tome and Principe,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,STP,AFCC1,Sao Tome,Sao Tome and Principe
+Saudi Arabia,SAU,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,SA,Saudi Arabia,MENA,High income: nonOECD,Saudi Arabia,SAU,MNC05,Saudi Arabia,Saudi Arabia
+Senegal,SEN,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SN,Senegal,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,SEN,AFCF1,Senegal,Senegal
+Serbia,SRB,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,RS,Serbia,Europe & Cen. Asia,Europe & Cen. Asia,Serbia,SRB,ECCU4,Serbia,Serbia
+Seychelles,SYC,R7,High income: nonOECD,I1,R7d,Sub-Saharan Africa,,R7e,I1e,SC,Seychelles,Sub-Saharan Africa,High income: nonOECD,Seychelles,SEY,AFCS2,Seychelles,Seychelles
+Sierra Leone,SLE,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SL,Sierra Leone,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,SIL,AFCW1,Sierra Leone,Sierra Leone
+Singapore,SGP,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,SG,Singapore,East Asia & Pacific,High income: nonOECD,Singapore,SGP,,Singapore,Singapore
+Sint Maarten (Dutch part),,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,,Sint Maarten (Dutch part),Lat. America & Carib.,High income: nonOECD,Sint Maarten (Dutch part),0,,Sint Maarten,Sint Maarten (Dutch part)
+Slovak Republic,SVK,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,SK,Slovakia,Europe & Cen. Asia,High income: OECD,Slovakia,SVK,ECCU5,Slovak,Slovak Republic
+Slovenia,SVN,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,SI,Slovenia,Europe & Cen. Asia,High income: OECD,Slovenia,SVN,ECCU5,Slovenia,Slovenia
+Solomon Islands,SLB,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,SB,Solomon Islands,East Asia & Pacific,East Asia & Pacific,Solomon Islands,SLI,,Solomon,Solomon Islands
+Somalia,SOM,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SO,Somalia,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,SOM,AFCE1,Somalia,Somalia
+South Africa,ZAF,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ZA,South Africa,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,SOU,AFCS1,South Africa,South Africa
+South Sudan,SSD,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SS,South Sudan,Sub-Saharan Africa,Sub-Saharan Africa,South Sudan,SSD,AFCE3,South Sudan,South Sudan
+Spain,ESP,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,ES,Spain,Europe & Cen. Asia,High income: OECD,Spain,ESP,,Spain,Spain
+Sri Lanka,LKA,R6,South Asia,R6,R6d,South Asia,,R6e,R6e,LK,Sri Lanka,South Asia,South Asia,Sri Lanka,SRI,SACSL,Sri Lanka,Sri Lanka
+St. Kitts and Nevis,KNA,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,KN,Saint Kitts and Nevis,Lat. America & Carib.,High income: nonOECD,Saint Kitts and Nevis,KNA,,Kitts and Nevis,St Kitts and Nevis
+St. Lucia,LCA,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,LC,Saint Lucia,Lat. America & Carib.,Lat. America & Carib.,Saint Lucia,STL,LCC3C,St. Lucia,St Lucia
+St. Martin (French part),,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,,St. Martin (French part),Lat. America & Carib.,High income: nonOECD,St. Martin (French part),0,,St. Martin,St Martin (French part)
+St. Vincent and the Grenadines,VCT,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,VC,Saint Vincent and the Grenadines,Lat. America & Carib.,Lat. America & Carib.,Saint Vincent and the Grenadines,VCT,,Grenadines,St Vincent and the Grenadines
+Sudan,SDN,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SD,Sudan,Sub-Saharan Africa,Sub-Saharan Africa,Sudan,SUD,AFCE3,Sudan,Sudan
+Suriname,SUR,R3,Latin America and Caribbean,R3,R3d,Latin America and Caribbean,,R3e,R3e,SR,Suriname,Lat. America & Carib.,Lat. America & Carib.,Suriname,SRM,LCC3C,Suriname,Suriname
+Swaziland,SWZ,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,SZ,Swaziland,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,SWZ,AFCS1,Swaziland,Swaziland
+Sweden,SWE,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,SE,Sweden,Europe & Cen. Asia,High income: OECD,Sweden,SWE,,Sweden,Sweden
+Switzerland,CHE,R2,High income: OECD,I0,I0,Europe and Central Asia,,R2e,I0e,CH,Switzerland,Europe & Cen. Asia,High income: OECD,Switzerland,CHE,,Switzerland,Switzerland
+Syrian Arab Republic,SYR,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,SY,Syrian Arab Republic,MENA,MENA,Syrian Arab Republic,SYR,MNC02,Syria,Syrian Arab Republic
+"Taiwan, China",TWN,R1,High income: nonOECD,I1,R1d,East Asia and Pacific,,R1e,I1e,TW,"China, Taiwan Province of",East Asia & Pacific,High income: nonOECD,"China, Taiwan Province of",TWN,,Taiwan,"Taiwan, China"
+Tajikistan,TJK,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,TJ,Tajikistan,Europe & Cen. Asia,Europe & Cen. Asia,Tajikistan,TJK,ECCU8,Tajikistan,Tajikistan
+Tanzania,TZA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,TZ,United Republic of Tanzania,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,TAN,AFCE1,Tanzania,Tanzania
+Thailand,THA,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,TH,Thailand,East Asia & Pacific,East Asia & Pacific,Thailand,THL,EACTF,Thailand,Thailand
+Timor-Leste,TLS,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,TL,Timor-Leste,East Asia & Pacific,East Asia & Pacific,Timor-Leste,TMP,EACNF,Timor,Timor-Leste
+Togo,TGO,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,TG,Togo,Sub-Saharan Africa,Sub-Saharan Africa,Togo,TOG,AFCF2,Togo,Togo
+Tonga,TON,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,TO,Tonga,East Asia & Pacific,East Asia & Pacific,Tonga,TNG,,Tonga,Tonga
+Trinidad and Tobago,TTO,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,TT,Trinidad and Tobago,Lat. America & Carib.,High income: nonOECD,Trinidad and Tobago,TTO,LCC3C,Tobago,Trinidad and Tobago
+Tunisia,TUN,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,TN,Tunisia,MENA,MENA,Tunisia,TUN,MNARS,Tunisia,Tunisia
+Turkey,TUR,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,TR,Turkey,Europe & Cen. Asia,Europe & Cen. Asia,Turkey,TUR,ECCU6,Turkey,Turkey
+Turkmenistan,TKM,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,TM,Turkmenistan,Europe & Cen. Asia,Europe & Cen. Asia,Turkmenistan,TKM,ECCU8,Turkmenistan,Turkmenistan
+Turks and Caicos Islands,TCA,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,TC,Turks and Caicos Islands,Lat. America & Carib.,High income: nonOECD,Turks and Caicos Islands,TCA,,Caicos,Turks and Caicos Islands
+Tuvalu,TUV,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,TV,Tuvalu,East Asia & Pacific,East Asia & Pacific,Tuvalu,TUV,,Tuvalu,Tuvalu
+Uganda,UGA,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,UG,Uganda,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,UAN,AFCE2,Uganda,Uganda
+Ukraine,UKR,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,UA,Ukraine,Europe & Cen. Asia,Europe & Cen. Asia,Ukraine,UKR,ECCU2,Ukraine,Ukraine
+United Arab Emirates,ARE,R4,High income: nonOECD,I1,R4d,Middle East and North Africa,,R4e,I1e,AE,United Arab Emirates,MENA,High income: nonOECD,United Arab Emirates,ARE,,Arab Emirates,United Arab Emirates
+United Kingdom,GBR,R2,High income: OECD,I0,I0,Europe and Central Asia,EU,R2e,I0e,GB,United Kingdom,Europe & Cen. Asia,High income: OECD,United Kingdom,GBR,,United Kingdom,United Kingdom
+United States,USA,R5,High income: OECD,I0,R5d,North America,,R5e,I0e,US,United States,North America,High income: OECD,United States,USA,,United States,United States
+Uruguay,URY,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,UY,Uruguay,Lat. America & Carib.,High income: nonOECD,Uruguay,URU,LCC7C,Uruguay,Uruguay
+Uzbekistan,UZB,R2,Europe and Central Asia,R2,R2d,Europe and Central Asia,,R2e,R2e,UZ,Uzbekistan,Europe & Cen. Asia,Europe & Cen. Asia,Uzbekistan,UZB,ECCU8,Uzbekistan,Uzbekistan
+Vanuatu,VUT,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,VU,Vanuatu,East Asia & Pacific,East Asia & Pacific,Vanuatu,VAN,,Vanuatu,Vanuatu
+"Venezuela, RB",VEN,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,VE,Venezuela (Bolivarian Rep. of),Lat. America & Carib.,High income: nonOECD,Venezuela,VEN,,Venezuela,"Venezuela, RB"
+Vietnam,VNM,R1,East Asia and Pacific,R1,R1d,East Asia and Pacific,,R1e,R1e,VN,Viet Nam,East Asia & Pacific,East Asia & Pacific,Vietnam,VNM,EACVF,Vietnam,Vietnam
+Virgin Islands (U.S.),VIR,R3,High income: nonOECD,I1,R3d,Latin America and Caribbean,,R3e,I1e,VI,British Virgin Islands,Lat. America & Carib.,High income: nonOECD,British Virgin Islands,VIR,,Virgin Islands,Virgin Islands (U.S.)
+West Bank and Gaza,WBG,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,PS,State of Palestine,MENA,MENA,West Bank and Gaza,XOT,MNC04,West Bank,West Bank and Gaza
+"Yemen, Rep.",YEM,R4,Middle East and North Africa,R4,R4d,Middle East and North Africa,,R4e,R4e,YE,Yemen,MENA,MENA,Republic of Yemen,YAR,MNC03,Yemen,"Yemen, Rep"
+Zambia,ZMB,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ZM,Zambia,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,ZAM,AFCS1,Zambia,Zambia
+Zimbabwe,ZWE,R7,Sub-Saharan Africa,R7,R7d,Sub-Saharan Africa,,R7e,R7e,ZW,Zimbabwe,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,ZIM,AFCS1,Zimbabwe,Zimbabwe
